@@ -1,10 +1,10 @@
 <h1>(1). Data Preparation</h1>
 <h2>Column Names</h2>
 <p>As a first step for data cleaning, the names of the dimensions in the dataset are transformed into the names that would fit into Sas Viya.</p>
-<img width="963" height="797" alt="Screenshot 2025-08-13 165340" src="https://github.com/user-attachments/assets/be980809-7a47-42b4-89c9-e6d6d62aaa0d" />
+<img width="550" height="400" alt="Screenshot 2025-08-13 165340" src="https://github.com/user-attachments/assets/be980809-7a47-42b4-89c9-e6d6d62aaa0d" />
 <h2>Outliers and Duplicates</h2>
-<img width="476" height="621" alt="Screenshot 2025-08-13 165559" src="https://github.com/user-attachments/assets/4798f37f-8730-4bf8-9d89-5a34e3f6d934" />
-<img width="589" height="680" alt="Screenshot 2025-08-13 171236" src="https://github.com/user-attachments/assets/59572d51-489d-4a89-8a2f-fac45fda66f3" />
+<img width="300" height="500" alt="Screenshot 2025-08-13 165559" src="https://github.com/user-attachments/assets/4798f37f-8730-4bf8-9d89-5a34e3f6d934" />
+<img width="339" height="500" alt="Screenshot 2025-08-13 171236" src="https://github.com/user-attachments/assets/59572d51-489d-4a89-8a2f-fac45fda66f3" />
 <p>There is no null value and unacceptable outliers in the dataset. (Outliers difference for BMI is 0.01. So that’s not a concern case).<br>
 When removing duplicate rows using Duplicate Row Filter node in Knime, the data row changes from 4865 to 973, which is indicating that the original dataset contains a lot of duplicated rows.
 </p>
