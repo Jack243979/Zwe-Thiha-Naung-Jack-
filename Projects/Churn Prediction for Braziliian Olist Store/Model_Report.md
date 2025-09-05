@@ -5,25 +5,26 @@ This report presents the **modeling process**, **evaluation metrics**, and **rec
 Four machine learning models were trained and evaluated using **SAS Viya**.
 
 ---
+## 🔹 Data Preparation
+Knime Workflow for Data Cleaning, Transformation and Feature Engeering.
+
+<img width="1720" height="559" alt="Screenshot 2025-08-17 193408" src="https://github.com/user-attachments/assets/a9a3a781-f0e4-4454-9bff-39153464ed11" />
 
 ## 🔹 Models Evaluated
-We tested four supervised classification models:
+I tested four supervised classification models:
 
 - **Logistic Regression**
 - **Gradient Boosting**
 - **Decision Tree**
 - **Support Vector Machine (SVM)**
  <img width="1956" height="1184" alt="Screenshot 2025-08-17 232429" src="https://github.com/user-attachments/assets/7bf6e6f7-3b83-4ed4-8749-6eb8d13e12e3" />
-  **Gradient Boosting**
+**Gradient Boosting**
 <img width="1960" height="1182" alt="Screenshot 2025-08-17 233912" src="https://github.com/user-attachments/assets/789bd83a-face-45e0-b703-ae4a7e37d933" />
 **Decision Tree**
 <img width="1960" height="1180" alt="Screenshot 2025-08-17 234624" src="https://github.com/user-attachments/assets/adb58e01-f03b-420c-9568-d22a5b31b179" />
 **Support Vector Machine (SVM)**
 <img width="1958" height="1179" alt="Screenshot 2025-08-17 232055" src="https://github.com/user-attachments/assets/1a00bbfe-e520-4e9c-a339-9b6cdf5e026f" />
 **Logistic Regression**
-
-
-
 
 ---
 
