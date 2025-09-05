@@ -1,12 +1,12 @@
-# 🛍️ Customer Churn Prediction | Olist E-Commerce Dataset
+#  Customer Churn Prediction | Olist E-Commerce Dataset
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on **predicting customer churn** for the Brazilian e-commerce platform **Olist** using **KNIME**, **SAS Viya**, and **Tableau**.  
 The goal is to identify customers likely to churn and provide actionable recommendations to improve **customer retention** and **lifetime value**.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 **Source**: [Olist E-Commerce Public Dataset on Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce)
 
 - 100k orders from 2016 to 2018
@@ -21,7 +21,7 @@ The goal is to identify customers likely to churn and provide actionable recomme
 
 ---
 
-## ⚙️ Data Preparation
+##  Data Preparation
 Data preparation was performed using **KNIME**:
 - **Data Cleaning** → Removed duplicates, null values, and outliers (IQR method).
 - **Data Transformation** → One-hot encoding, region encoding, and datetime conversion.
@@ -33,7 +33,7 @@ Data preparation was performed using **KNIME**:
 
 ---
 
-## 🤖 Modeling
+##  Modeling
 Four ML models were trained using **SAS Viya**:
 
 | Model                 | Accuracy | Precision | Recall | F1 Score | Misclassification |
@@ -48,7 +48,7 @@ Four ML models were trained using **SAS Viya**:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 - **Important Features**:
     - `freight_value`
     - `delivered_estimated`
@@ -61,7 +61,7 @@ Four ML models were trained using **SAS Viya**:
 
 ---
 
-## 🎯 Recommendations
+##  Recommendations
 - **Reduce Freight Value** → Optimize shipping costs or offer free-shipping promotions.
 - **Improve Delivery Accuracy** → Align estimated vs actual delivery times.
 - **Automate Payment Approvals** → Minimize processing delays.
@@ -69,7 +69,7 @@ Four ML models were trained using **SAS Viya**:
 
 ---
 
-## 📈 Tools & Technologies
+##  Tools & Technologies
 - **KNIME** → Data preprocessing, feature engineering, and cleaning.
 - **SAS Viya** → Model training, hyperparameter tuning, evaluation.
 - **Tableau** → Data visualization and insights dashboard.
@@ -77,7 +77,7 @@ Four ML models were trained using **SAS Viya**:
 
 ---
 
-## 📄 Project Structure
+##  Project Structure
 ```bash
 customer-churn-prediction/
 ├── data/                # Raw & processed datasets
