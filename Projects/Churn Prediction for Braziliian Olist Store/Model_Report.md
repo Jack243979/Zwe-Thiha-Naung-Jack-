@@ -18,7 +18,7 @@ The goal is to identify customers likely to churn and provide actionable recomme
 - `olist_orders_dataset.csv`
 - `olist_order_items_dataset.csv`
 - `olist_order_payments_dataset.csv`
-- **Source**: [data](/data)
+- **Source**: [data](Projects/Churn Prediction for Braziliian Olist Store/data)
 
 ---
 
