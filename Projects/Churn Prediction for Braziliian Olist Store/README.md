@@ -3,6 +3,7 @@
 ##  Project Overview
 This project focuses on **predicting customer churn** for the Brazilian e-commerce platform **Olist** using **KNIME**, **SAS Viya**, and **Tableau**.  
 The goal is to identify customers likely to churn and provide actionable recommendations to improve **customer retention** and **lifetime value**.
+**Source**: See the full project scenerio 0[here](Project_Scenerio.md)
 
 ---
 
@@ -45,6 +46,8 @@ Four ML models were trained using **SAS Viya**:
 
 **Best Model** → **Gradient Boosting**  
 **Best Simplicity** → **Decision Tree**
+
+**Source**: See the full Modelling report [here](Model_Report.md)
 
 ---
 
