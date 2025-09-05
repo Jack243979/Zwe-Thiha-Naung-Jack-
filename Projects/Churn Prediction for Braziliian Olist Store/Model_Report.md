@@ -1,4 +1,4 @@
-# 📊 Model Evaluation Report — Customer Churn Prediction
+# Model Evaluation Report — Customer Churn Prediction
 
 ## 🔹 Overview
 This report presents the **modeling process**, **evaluation metrics**, and **recommendations** for the **Customer Churn Prediction Project** using the **Olist E-Commerce dataset**.  
@@ -86,7 +86,7 @@ Top 4 features influencing churn prediction:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 The **Gradient Boosting** model is the most suitable for this project due to its **high accuracy, balanced performance, and interpretability of feature importance**.  
 By leveraging these insights, Olist can **reduce churn** and **improve customer satisfaction**.
 
