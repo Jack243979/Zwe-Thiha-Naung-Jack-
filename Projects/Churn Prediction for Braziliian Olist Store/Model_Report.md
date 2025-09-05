@@ -14,11 +14,10 @@ The goal is to identify customers likely to churn and provide actionable recomme
 - 43 distinct columns
 
 ### **Key Datasets Used**
-- `olist_customers_dataset.csv`
-- `olist_orders_dataset.csv`
-- `olist_order_items_dataset.csv`
-- `olist_order_payments_dataset.csv`
-- **Source**: [data](Projects/Churn Prediction for Braziliian Olist Store/data)
+- `olist_customers_dataset.csv` - **Source**: [data](data/olist_customers_dataset.csv)
+- `olist_orders_dataset.csv` - **Source**: [data](data/olist_orders_dataset.csv)
+- `olist_order_items_dataset.csv`- **Source**: [data](data/olist_order_items_dataset.csv)
+- `olist_order_payments_dataset.csv`- **Source**: [data](data/olist_order_payments_dataset.csv)
 
 ---
 
