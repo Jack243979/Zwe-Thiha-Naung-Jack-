@@ -12,7 +12,6 @@ tableau/extracts/
 
 # Data (optional, if dataset is confidential)
 data/*.xlsx
-!data/README.md  # Keep README to explain dataset
 
 # Logs or backups
 *.bak
