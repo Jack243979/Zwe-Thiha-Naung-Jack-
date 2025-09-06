@@ -1,1 +1,19 @@
 
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Tableau extract files
+*.hyper
+*.tde
+*.tms
+*.twbx.zip
+tableau/extracts/
+
+# Data (optional, if dataset is confidential)
+data/*.xlsx
+!data/README.md  # Keep README to explain dataset
+
+# Logs or backups
+*.bak
+*.log
