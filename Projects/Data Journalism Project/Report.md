@@ -1,6 +1,4 @@
 
-### docs/Report.md
-```markdown
 # Pedal&Co Relaunch — Analysis Report
 
 ## 1) Objective
