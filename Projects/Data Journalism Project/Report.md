@@ -58,5 +58,18 @@ Use historical data (2015–2018) to inform the relaunch plan and candidate rehi
 - 90-day review: repeat rate uplift, stockout %, promo ROI
 
 ## 8) Appendix
-- Screenshots of dashboards
+<img width="2216" height="1316" alt="image" src="https://github.com/user-attachments/assets/1b56789f-178b-44b9-829b-e54d2e1a2a2b" />
+
+**Product Sale Dashboard**
+
+<img width="2215" height="1308" alt="image" src="https://github.com/user-attachments/assets/7a4a142c-12f1-4c59-aead-3e2d55f8a0dc" />
+
+**Manpower Dashboard**
+
+<img width="2229" height="1310" alt="image" src="https://github.com/user-attachments/assets/50c44b56-f755-4920-ba80-45cfea3f177f" />
+
+**Customer Dashboard**
+
+**Source**: See the full data story [here](https://public.tableau.com/app/profile/zwe.thiha.naung/viz/AY2025S1IT2383Assignment_243979B/Story1)
+
 - Formulas: see `CalculatedFields.md`
